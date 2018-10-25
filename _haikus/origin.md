@@ -4,7 +4,7 @@ title: Origin
 author: Lovelli 
 ---
 
-People are walking
-Slower than they are changing
-Leaving who they were
+People are walking<br>
+Slower than they are changing<br>
+Leaving who they were<br>
 
